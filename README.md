@@ -1,0 +1,2 @@
+# forfun
+ forfun self study
